@@ -43,3 +43,5 @@ next-env.d.ts
 
 # appointment data written at runtime
 /data
+
+.vercel
